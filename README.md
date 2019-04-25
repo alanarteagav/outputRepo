@@ -41,6 +41,10 @@ seguido de la cadena que se desea verificar:
     Cadena a evaluar: [su cadena va aquí]
 ```
 
+### Salida:
+El programa imprime como resultado si la cadena es aceptada o no, junto con su respectiva tabla de parseo y su derivación
+más por la izquierda si es que la cadena es aceptada.
+
 ### Autores:
 Arteaga Vázquez Alan Ernesto
 
